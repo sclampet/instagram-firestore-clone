@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9CDCA7ED262E1D0900E4D147"
+               BuildableName = "InstagramFirestore.app"
+               BlueprintName = "InstagramFirestore"
+               ReferencedContainer = "container:InstagramFirestore.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9CDCA7ED262E1D0900E4D147"
+            BuildableName = "InstagramFirestore.app"
+            BlueprintName = "InstagramFirestore"
+            ReferencedContainer = "container:InstagramFirestore.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
